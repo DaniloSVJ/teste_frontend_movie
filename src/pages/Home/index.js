@@ -5,7 +5,7 @@ import FilterMovies from '../../components/Home/FilterMoviesList';
 import Movielist from '../../components/Home/Movielist';
 import Tmdb from "../../tmdb"
 import api from '../../service/api';
-import { render } from '@testing-library/react';
+
 import Paginas from '../../components/Home/Paginas';
 const Home = () => {
 
